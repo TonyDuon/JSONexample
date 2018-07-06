@@ -1,4 +1,4 @@
-//use https://jsonlint.com/ to validate the json file to ensure it is formatted correctly
+
 [ 
     {
         "make":"Ferrari",
@@ -21,4 +21,4 @@
             "type2": "manual"
         }
     }
-]; //array of objects
+];
