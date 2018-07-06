@@ -1,0 +1,24 @@
+//use https://jsonlint.com/ to validate the json file to ensure it is formatted correctly
+[ 
+    {
+        "make":"Ferrari",
+        "model": "456 italia",
+        "price": 200000
+    }, 
+    
+    {
+        "make":"Lamborghini",
+        "model": "aventador",
+        "price": 300000
+    }, 
+    
+    {
+        "make":"Mclaren",
+        "model": "p1",
+        "price": 1000000,
+        "transmission": {
+            "type1": "auto",
+            "type2": "manual"
+        }
+    }
+]; //array of objects
